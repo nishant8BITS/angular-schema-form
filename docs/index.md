@@ -1168,11 +1168,11 @@ function FormCtrl($scope) {
       nick: {
         title: "Nick",
         type: "string"
-      }
+      },
       alias: {
         title: "Alias",
         type: "string"
-      }
+      },
       tag: {
         title: "Tag",
         type: "string"
