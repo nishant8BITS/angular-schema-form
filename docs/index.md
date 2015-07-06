@@ -755,7 +755,7 @@ function FormCtrl($scope) {
         "title": "Eligible for awesome things"
       },
       "code": {
-        "type":"string"
+        "type":"string",
         "title": "The Code"
       }
     }
